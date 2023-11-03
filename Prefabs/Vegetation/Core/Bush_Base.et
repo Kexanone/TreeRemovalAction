@@ -24,7 +24,7 @@ Tree {
       Name "#TRA_RemoveBush"
      }
      VisibilityRange -1
-     Duration 1
+     Duration 2.5
     }
    }
   }
