@@ -20,7 +20,7 @@ Tree {
       Name "#TRA_RemoveTree"
      }
      VisibilityRange -1
-     Duration 5
+     Duration 6
     }
    }
   }
